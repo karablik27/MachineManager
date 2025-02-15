@@ -1,0 +1,11 @@
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.AssemblyInfoInputs.cache
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.AssemblyInfo.cs
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\bin\Debug\net6.0\MachineLibrary.deps.json
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\bin\Debug\net6.0\MachineLibrary.dll
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\bin\Debug\net6.0\MachineLibrary.pdb
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.dll
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\refint\MachineLibrary.dll
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\MachineLibrary.pdb
+C:\Users\Степан\source\repos\Karabelnikov_234_HW6_Var17\MachineLibrary\obj\Debug\net6.0\ref\MachineLibrary.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Karabelnikov_Var_17/1.0.0": {
+        "dependencies": {
+          "MachineLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Karabelnikov_Var_17.dll": {}
+        }
+      },
+      "MachineLibrary/1.0.0": {
+        "runtime": {
+          "MachineLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karabelnikov_Var_17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MachineLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
